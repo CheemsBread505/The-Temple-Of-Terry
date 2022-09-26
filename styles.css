@@ -13,6 +13,11 @@ div.boxMain {
     margin: auto;
 }
 
+.gif1 {
+    position: fixed;
+    bottom: 0;
+}
+
 div.aboutBox {
     width: 60%;
     height: auto;
@@ -24,6 +29,7 @@ div.aboutBox {
     margin: auto;
     font-family: templeos;
     font-size: 13px;
+    color: #5757ff;
 }
 
 @font-face {
@@ -39,6 +45,7 @@ img{
     -webkit-user-select: none;
     user-select: none;
 }
+
 
 
 /* rainbow text */
