@@ -1,5 +1,7 @@
-TempleOS (formerly J Operating System, LoseThos, and SparrowOS) is a biblical-themed lightweight operating system (OS) designed to be the Third Temple prophesied in the Bible. It was created by American programmer Terry A. Davis, who developed it alone over the course of a decade after a series of manic episodes that he later described as a revelation from God.
-
-The system was characterized as a modern x86-64 Commodore 64, using an interface similar to a mixture of DOS and Turbo C. Davis proclaimed that the system's features, such as its 640x480 resolution, 16-color display, and single-voice audio, were designed according to explicit instructions from God. It was programmed with an original variation of C (named HolyC) in place of BASIC, and included an original flight simulator, compiler, and kernel.
-
+TempleOS (formerly J Operating System, LoseThos, and SparrowOS) is a biblical-themed lightweight operating system (OS) designed to be the Third Temple prophesied in the Bible. 
+It was created by American programmer Terry A. Davis, who developed it alone over the course of a decade after a series of manic episodes that he later described as a revelation from God.
+The system was characterized as a modern x86-64 Commodore 64, using an interface similar to a mixture of DOS and Turbo C. 
+Davis proclaimed that the system's features, such as its 640x480 resolution, 16-color display, and single-voice audio, 
+were designed according to explicit instructions from God. It was programmed with an original variation of C (named HolyC) in place of BASIC, 
+and included an original flight simulator, compiler, and kernel.
 First released in 2005 as J Operating System, TempleOS was renamed in 2013 and was last updated in 2017.

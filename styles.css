@@ -22,7 +22,14 @@ div.aboutBox {
     margin: 20px;
     text-align: center;
     margin: auto;
+    font-family: templeos;
+    font-size: 13px;
 }
+
+@font-face {
+    font-family: 'templeos';
+    src: URL('fonts/templeos_font.ttf') format('truetype');
+  }
 
 img{
     -webkit-user-drag: none;
