@@ -1,5 +1,8 @@
 body {
     background-color: #5ffeff;
+    font-family: templeos;
+    font-size: 13px;
+    color: #5757ff;
 }
 
 div.boxMain {
@@ -27,9 +30,6 @@ div.aboutBox {
     margin: 20px;
     text-align: center;
     margin: auto;
-    font-family: templeos;
-    font-size: 13px;
-    color: #5757ff;
 }
 
 @font-face {
@@ -44,6 +44,17 @@ img{
     -moz-user-select: none;
     -webkit-user-select: none;
     user-select: none;
+}
+
+.backButton {
+    background-color: #ffff55;
+    height: 40px;
+    width: 80px;
+}
+
+#link1 , #link2 {
+    display:inline-block;
+    /* additional code */
 }
 
 
