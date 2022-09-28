@@ -1,4 +1,10 @@
 # The-Temple-Of-Terry
 
-Just a website as a memorial of Terry Davis
-rip
+A website memorial of Terry A. Davis. He was a genius lost to soon.
+More stuff will be added soon.
+
+[https://www.templeofterry.cf](https://www.templeofterry.cf/)
+
+I used a custom font for the text. you can download it: [HERE](https://www.mediafire.com/file/pf6y0unzigg1hf7/templeos_font.ttf/file)
+
+![enter image description here](https://lh3.googleusercontent.com/4M8NfcTwlYRl_kL1nRTyu9CSaqtkE0FNQO3qC0ac4iYV68_zsS14uF8v4emsahivcPgT72-lIq1HjH3GDRR9ZxKBiAJ3LGAL-3iy4-309EE6Y_S8rHJNwvOltCAEohciL1rfC4-DMvS-rGGBN2bBNqRyWx3QIM1QTf4C05xLWmE5qcKfPVEu8gB5GRQBVxRL_2qap9_icf6-IlGSqJmQPsekmUAX9Ggf4TCeaeawo5J6M0O7CAx-lLGc3e5eemIinftkzbAz-j7wCzwvoSN2mJn3t-wNZSUO1cAu2WZRnbWPCm1O00XKtxZbRmdTh7qV0j04AvtOcyyA2znYiGvxog-lKSkccPztb71W7ekCxp-rna9j5lcKlMq-afzNzS8BSjabCMq1pczHSKjn8kKiVcQICqTGDQUOd-rniYimYbw1WdyaAsJ93z-CvxMjxubDU9VJIK_gWih4qMLWFOu11bsQ86ZZ01sCawtRGVNhdpz6IXacKefBS_VCx6VdMQyeYmo32q7LYT2ngVhTby_NMLv2zNBg_4wyef0QRtII9tUq4B4w1Rahtdlljoonxs4mf0o_6wjmooBHpmmot-OFQxMq8qM027ThgROLMWrBzAAxQiUDlp4uGudq2SwuLGtYgC3wNZBG0OjCa3IOEnNV8U6FUxKbLoL_iJRAIuxKF4xZQRHOrryHQYdv3Rw44LzIZHW-jC7TBty3Na8UMEe36eY0wUrfLCOvioVoLheHv-RRD3CbRxSwxDHbaj1EPSOm5gfrcNX-19hWe45SFDLkyJPnbVItTaj6=w1912-h928-no?authuser=0)
