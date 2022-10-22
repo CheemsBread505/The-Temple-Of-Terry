@@ -1,0 +1,22 @@
+{
+  "name": "tempelos_website",
+  "version": "1.1",
+  "description": "A website memorial of Terry A. Davis. He was a genius lost to soon.\r More stuff will be added soon.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CheemsBread505/The-Temple-Of-Terry.git"
+  },
+  "author": "Cheems Bread",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CheemsBread505/The-Temple-Of-Terry/issues"
+  },
+  "homepage": "https://github.com/CheemsBread505/The-Temple-Of-Terry#readme",
+  "devDependencies": {
+    "video.js": "^7.20.3"
+  }
+}

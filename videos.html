@@ -3,6 +3,7 @@
 <head>
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-GP4SKPBTEX"></script>
+  
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
@@ -22,18 +23,68 @@
     <meta content="https://www.templeofterry.cf/img/TempleOS.png" property="og:image" />
     <meta name="twitter:card" content="summary_large_image">
     <meta content="#5ffeff" data-react-helmet="true" name="theme-color" />
+    <script src="https://vjs.zencdn.net/7.20.3/video.min.js"></script>
+    <link href="https://vjs.zencdn.net/7.20.3/video-js.css" rel="stylesheet"/>
     <title>The Temple Of Terry 👨‍💻</title>
 </head>
 <body>
+  
   <button class="backButton"><a href="/">Go back</a></button>
 
     <br>
     <br>
 
     <!--Videos-->
-    <video width="320" height="240" controls><source src="videos/terry.webm" type="video/webm"></video>
-    <video width="360" height="200" controls poster=""><source src="videos/a_mission_from_god.webm" type="video/webm"></video>
-    <video width="360" height="200" controls poster=""><source src="videos/monkey_music_1.webm" type="video/webm"></video>
-    <video width="360" height="200" controls><source src="videos/entertain_god.webm" type="video/webm"></video>
+  <video
+      id="Terry"
+      class="video-js"
+      controls
+      preload="auto"
+      poster="img/terry.png"
+      width="320" 
+      height="240"
+      data-setup='{}'>
+      <source src="videos/terry.webm" type="video/webm"></source>
+  </video>
+
+    <br>
+
+  <video
+    id="entertain_god"
+    class="video-js"
+    controls
+    preload="auto"
+    poster="img/entertain_god.png"
+    width="320" 
+    height="240"
+    data-setup='{}'>
+    <source src="videos/entertain_god.webm" type="video/webm"></source>
+  </video>
+
+  <br>
+
+  <video
+    id="monkey_music"
+    class="video-js"
+    controls
+    preload="auto"
+    width="320" 
+    height="240"
+    data-setup='{}'>
+    <source src="videos/monkey_music_1.webm" type="video/webm"></source>
+  </video>
+
+  <br>
+
+  <video
+  id="a_mission_from_god"
+  class="video-js"
+  controls
+  preload="auto"
+  width="320" 
+  height="240"
+  data-setup='{}'>
+  <source src="videos/a_mission_from_god.webm" type="video/webm"></source>
+</video>
 </body>
 </html>
