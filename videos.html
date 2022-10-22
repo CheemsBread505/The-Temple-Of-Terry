@@ -34,7 +34,8 @@
     <br>
     <br>
 
-    <!--Videos-->
+  <!--Videos-->
+
   <video
       id="Terry"
       class="video-js"
@@ -86,5 +87,20 @@
   data-setup='{}'>
   <source src="videos/a_mission_from_god.webm" type="video/webm"></source>
 </video>
+
+<style>
+  .video-js .vjs-big-play-button {
+    left: 40% !important;
+    top: 40% !important;
+    width: 20%;
+    height: 20%;
+}
+
+.video-js .vjs-play-control:before {
+    top:20% !important;
+    content: '\f101';
+    font-size: 48px;
+}
+</style>
 </body>
 </html>
